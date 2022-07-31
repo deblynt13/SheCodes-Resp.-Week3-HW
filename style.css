@@ -89,6 +89,10 @@ p {
   height: auto;
 }
 
+.primary-link:hover {
+  color: white;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
@@ -105,6 +109,6 @@ p {
   .project-link {
     display: block;
     text-align: center;
-    maring: 0 20px;
+    margin: 0 20px;
   }
 }
