@@ -106,7 +106,7 @@ p {
   p {
     text-align: center;
   }
-  .btn {
+  .btn btn-primary {
     display: block;
     text-align: center;
     margin: 0 20px;
